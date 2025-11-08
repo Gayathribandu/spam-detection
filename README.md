@@ -2,6 +2,8 @@ The Spam Email Classifier is a machine learning project designed to automaticall
 
 To develop a supervised machine learning model that classifies emails (or SMS messages) as Spam or Not Spam (Ham) based on the textual content. The system should achieve high accuracy, recall, and precision to minimize false positives (ham marked as spam) and false negatives (spam marked as ham).
 
+Dataset taken from kaggle.
+
 Methodology
 Data Collection
 Data Preprocessing
